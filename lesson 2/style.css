@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(207, 207, 207);
+    font-family: 'Montserrat', sans-serif;
+}
+.name{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    color: rgb(66, 92, 82);
+}
+img{
+    width: 300px;
+height: 300px;
+border-radius: 100%;
+}
